@@ -1,5 +1,3 @@
-Aaron Heishman
-CSE 2331 - Lab 2
 Table Doubling using Array
 
 
